@@ -1,6 +1,6 @@
 > PLEASE DELETE THIS FILE BEFORE UPLOADING TO CREATIVE MANAGER!
 # Flashtalking-Base-Template
-### Template for building new Flashtalking ads.  
+### Template for creating new Flashtalking ads.  
 FT Adserver Template: -  
 FT Adserver Extension: -  
 External Technical Specifications: -  
