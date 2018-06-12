@@ -3,5 +3,5 @@
 ### Template for building new Flashtalking ads.  
 FT Adserver Template: -  
 FT Adserver Extension: -  
-External Technical Specifications: -
+External Technical Specifications: -  
 Additional Information: -  
