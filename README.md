@@ -5,5 +5,3 @@ FT Adserver Template: -
 FT Adserver Extension: -  
 External Technical Specifications: -
 Additional Information: -  
-
-![alt text](https://raw.githubusercontent.com/janweinen/ft.templates/master/readmeImages/burda.heroad.png "Burda HeroAd")
